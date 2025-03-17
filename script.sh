@@ -1,3 +1,3 @@
 #!/bin/bash
-cal
-date;df -h
+who
+echo "pushing to jenkins using github-webhook"
